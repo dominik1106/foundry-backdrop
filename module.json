@@ -1,0 +1,20 @@
+{
+  "id": "backdrop",
+  "title": "Backdrop",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Dominik Schneider",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "description": "Draws a backdrop behind the playable area",
+  "esmodules": ["scripts/backdrop.js"]
+}
