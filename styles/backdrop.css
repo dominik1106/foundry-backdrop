@@ -1,0 +1,5 @@
+#backdrop-wallpaper {
+  position: fixed;
+  background: center / cover no-repeat;
+  pointer-events: none;
+}

@@ -16,5 +16,6 @@
     "canUpload": true
   },
   "description": "Draws a backdrop behind the playable area",
-  "esmodules": ["scripts/backdrop.js"]
+  "esmodules": ["scripts/backdrop.js"],
+  "styles": ["styles/backdrop.css"]
 }
